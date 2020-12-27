@@ -1,1 +1,2 @@
-# C-40
+# synchronousBallMovement
+Ball moving synchronously
